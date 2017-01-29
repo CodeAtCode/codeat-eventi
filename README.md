@@ -4,7 +4,7 @@ Un JSON che contiene tutti gli eventi di Codeat
 ## Come si usa
 Per aggiungere un evento al calendario basta inserire in formato JSON un elemento evento costruito nel seguente modo.
 
-### Data (yyyy-mm-dd)
+### Data (yyyy/mm/dd)
 La data è sia l'oggetto dell'evento sia l'id che determina anche l'ordinamento e va inserita nel formato appropriato per permettere al sito il giusto sorting.
 
 #### Titolo (string)
