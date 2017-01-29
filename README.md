@@ -13,6 +13,9 @@ Il titolo dell'evento a cui parteciperete.
 #### Ruolo (string)
 Il ruolo va pensato sempre per essere inserito prima della parola 'PRESSO', quindi è bene usare un termine a scelta tra: speaker, relatore, formatore, studente, assistente, partecipante, etc.
 
+#### Luogo (string)
+Città dove si svolge l'evento. Cerchiamo di essere sintetici (Roma, Bologna, Bruxelles, etc) e di evitare le cose lunghissime se non necessarie (Talent Garden Cinecittà, Toolbox Torino, Conference Center London).
+
 #### Link (string/url)
 Link comprensivo del protocollo http/https dell'evento.
 
