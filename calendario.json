@@ -1,53 +1,93 @@
 {
   "eugenio": {
      "2017/02/04": {
-       "titolo": "FOSDEM",
+       "titolo": "FOSDEM 2017",
        "ruolo": "speaker",
        "link": "http://fosdem.org/"
      },
      "2017/01/06": {
-       "titolo": "Codemotion Roma",
+       "titolo": "Codemotion Roma 2017",
        "ruolo": "speaker",
        "link": "http://rome2017.codemotionworld.com/"
      },
-     "2017/04/12": {
-       "titolo": "titolo test 3",
+     "2017/05/05": {
+       "titolo": "SEOCMS Bologna",
        "ruolo": "speaker",
-       "link": "https://codeat.it"
+       "link": "http://www.seocms.it/2017"
+     },
+     "2017/04/02": {
+       "titolo": "WordCamp Torino 2016",
+       "ruolo": "speaker",
+       "link": "https://2016.torino.wordcamp.org/"
+     },
+     "2017/05/13": {
+       "titolo": "OSCAL 2017",
+       "ruolo": "speaker",
+       "link": "http://oscal.openlabs.cc/"
+     },
+     "2016/05/14": {
+       "titolo": "OSCAL 2016",
+       "ruolo": "speaker",
+       "link": "http://oscal.openlabs.cc/"
+     },
+     "2016/11/18": {
+       "titolo": "Startup Weekend Roma 2016",
+       "ruolo": "mentor",
+       "link": "http://www.up.co/communities/italy/roma/startup-weekend/10097"
+     },
+     "2016/09/21": {
+      "titolo": "Poste Hackathon",
+      "ruolo": "vincitore",
+      "link": "https://www.eventbrite.it/e/biglietti-poste-hack-2nd-edition-26843665125#"
      }
   },
   "daniele": {
      "2017/02/04": {
-       "titolo": "FOSDEM",
+       "titolo": "FOSDEM 2017",
        "ruolo": "speaker",
        "link": "http://fosdem.org/"
      },
      "2017/04/08": {
-       "titolo": "WordCamp Torino",
+       "titolo": "WordCamp Torino 2017",
        "ruolo": "speaker",
        "link": "https://2017.torino.wordcamp.org/"
      },
-      "2017/05/14": {
-       "titolo": "OSCAL",
+     "2017/04/02": {
+       "titolo": "WordCamp Torino 2016",
+       "ruolo": "speaker",
+       "link": "https://2016.torino.wordcamp.org/"
+     },
+     "2017/05/13": {
+       "titolo": "OSCAL 2017",
        "ruolo": "speaker",
        "link": "http://oscal.openlabs.cc/"
+     },
+     "2016/05/14": {
+       "titolo": "OSCAL 2016",
+       "ruolo": "speaker",
+       "link": "http://oscal.openlabs.cc/"
+     },
+     "2016/10/28": {
+      "titolo": "Mozilla Festival 2016",
+      "ruolo": "speaker",
+      "link": "https://mozillafestival.org/"
+     },
+     "2016/09/21": {
+      "titolo": "Poste Hackathon",
+      "ruolo": "vincitore",
+      "link": "https://www.eventbrite.it/e/biglietti-poste-hack-2nd-edition-26843665125#"
      }
   },
   "andrea": {
      "2017/11/02": {
-       "titolo": "titolo test 2",
+       "titolo": "SEO&LOVE",
        "ruolo": "speaker",
-       "link": "https://codeat.it"
+       "link": "http://www.seoandlove.it/relatori/andrea-barghigiani/"
      },
-      "2017/01/06": {
-       "titolo": "titolo test 2",
-       "ruolo": "speaker",
-       "link": "https://codeat.it"
-     },
-     "2017/04/12": {
-       "titolo": "titolo test 3",
-       "ruolo": "speaker",
-       "link": "https://codeat.it"
+     "2016/11/18": {
+       "titolo": "Startup Weekend Roma 2016",
+       "ruolo": "mentor",
+       "link": "http://www.up.co/communities/italy/roma/startup-weekend/10097"
      }
   }
 }
