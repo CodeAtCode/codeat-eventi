@@ -1,14 +1,14 @@
 {
   "eugenio": {
-     "2017-02-11": {
-       "titolo": "titolo test",
+     "2017-02-4": {
+       "titolo": "FOSDEM",
        "ruolo": "speaker",
-       "link": "https://codeat.it"
+       "link": "http://fosdem.org/"
      },
      "2017-01-06": {
-       "titolo": "titolo test 2",
+       "titolo": "Codemotion Roma",
        "ruolo": "speaker",
-       "link": "https://codeat.it"
+       "link": "http://rome2017.codemotionworld.com/"
      },
      "2017-04-12": {
        "titolo": "titolo test 3",
@@ -17,20 +17,20 @@
      }
   },
   "daniele": {
-     "2017-11-02": {
-       "titolo": "titolo test 2",
+     "2017-02-04": {
+       "titolo": "FOSDEM",
        "ruolo": "speaker",
-       "link": "https://codeat.it"
+       "link": "http://fosdem.org/"
      },
-      "2017-01-06": {
-       "titolo": "titolo test 2",
+     "2017-04-8": {
+       "titolo": "WordCamp Torino",
        "ruolo": "speaker",
-       "link": "https://codeat.it"
+       "link": "https://2017.torino.wordcamp.org/"
      },
-     "2017-04-12": {
-       "titolo": "titolo test 3",
+      "2017-05-14": {
+       "titolo": "OSCAL",
        "ruolo": "speaker",
-       "link": "https://codeat.it"
+       "link": "http://oscal.openlabs.cc/"
      }
   },
   "andrea": {
