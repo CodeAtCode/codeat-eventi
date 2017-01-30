@@ -1,37 +1,37 @@
 {
   "eugenio": {
      "2017/02/04": {
-       "titolo": "FOSDEM 2017",
+       "titolo": "FOSDEM",
        "ruolo": "speaker",
        "luogo": "Bruxelles",
        "link": "http://fosdem.org/"
      },
      "2017/01/06": {
-       "titolo": "Codemotion 2017",
+       "titolo": "Codemotion",
        "ruolo": "speaker",
        "luogo": "Roma",
        "link": "http://rome2017.codemotionworld.com/"
      },
      "2017/05/05": {
-       "titolo": "SEOCMS 2017",
+       "titolo": "SEOCMS",
        "ruolo": "speaker",
        "luogo": "Bologna",
-       "link": "http://www.seocms.it/2017"
+       "link": "http://www.seocms.it"
      },
      "2017/04/02": {
-       "titolo": "WordCamp 2016",
+       "titolo": "WordCamp",
        "ruolo": "speaker",
        "luogo": "Torino",
        "link": "https://2016.torino.wordcamp.org/"
      },
      "2017/05/13": {
-       "titolo": "OSCAL 2017",
+       "titolo": "OSCAL",
        "ruolo": "speaker",
        "luogo": "Tirana",
        "link": "http://oscal.openlabs.cc/"
      },
      "2016/05/14": {
-       "titolo": "OSCAL 2016",
+       "titolo": "OSCAL",
        "ruolo": "speaker",
        "luogo": "Tirana",
        "link": "http://oscal.openlabs.cc/"
@@ -51,37 +51,37 @@
   },
   "daniele": {
      "2017/02/04": {
-       "titolo": "FOSDEM 2017",
+       "titolo": "FOSDEM",
        "ruolo": "speaker",
        "luogo": "Bruxelles",
        "link": "http://fosdem.org/"
      },
      "2017/04/08": {
-       "titolo": "WordCamp 2017",
+       "titolo": "WordCamp",
        "ruolo": "speaker",
        "luogo": "Torino",
        "link": "https://2017.torino.wordcamp.org/"
      },
      "2017/04/02": {
-       "titolo": "WordCamp 2016",
+       "titolo": "WordCamp",
        "ruolo": "speaker",
        "luogo": "Torino",
        "link": "https://2016.torino.wordcamp.org/"
      },
      "2017/05/13": {
-       "titolo": "OSCAL 2017",
+       "titolo": "OSCAL",
        "ruolo": "speaker",
        "luogo": "Tirana",
        "link": "http://oscal.openlabs.cc/"
      },
      "2016/05/14": {
-       "titolo": "OSCAL 2016",
+       "titolo": "OSCAL",
        "ruolo": "speaker",
        "luogo": "Tirana",
        "link": "http://oscal.openlabs.cc/"
      },
      "2016/10/28": {
-      "titolo": "Mozilla Festival 2016",
+      "titolo": "Mozilla Festival",
       "ruolo": "speaker",
       "luogo": "Londra",
       "link": "https://mozillafestival.org/"
