@@ -74,11 +74,23 @@
        "luogo": "Torino",
        "link": "https://2016.torino.wordcamp.org/"
      },
+     "2017/05/09": {
+       "titolo": "DUCC-IT",
+       "ruolo": "speaker",
+       "luogo": "Vicenza",
+       "link": "http://ducc.it/"
+     },
      "2017/05/13": {
        "titolo": "OSCAL",
        "ruolo": "speaker",
        "luogo": "Tirana",
        "link": "http://oscal.openlabs.cc/"
+     },
+     "2017/07/15": {
+       "titolo": "WordCamp Europe",
+       "ruolo": "speaker",
+       "luogo": "Paris",
+       "link": "https://2017.europe.wordcamp.org"
      },
      "2016/05/14": {
        "titolo": "OSCAL",
